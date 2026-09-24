@@ -13,6 +13,7 @@
 - [Почему не получается расслабиться: причины и 3 способа](https://bodycodelab.github.io/neyrokod/pochemu-ne-mogu-rasslabitsya/): почему трудно расслабиться, техники и вечерние советы, с источниками Cleveland Clinic, NHS, Stanford
 - [Тест на выгорание: 10 вопросов для самопроверки на работе](https://bodycodelab.github.io/neyrokod/test-na-vygoranie/): вопросы для самопроверки по признакам Cleveland Clinic и ВОЗ, без диагноза
 - [Как быстро снять тревогу без причины: 3 приёма на 5 минут](https://bodycodelab.github.io/neyrokod/trevoga-bez-prichiny-kak-izbavitsya/): вздох с длинным выдохом, называние чувства словами, сон и разговор, с источниками Stanford, UCLA, NHS
+- [Нейропластичность: что это простыми словами и 6 способов](https://bodycodelab.github.io/neyrokod/neyroplastichnost/): определение, виды, возраст и шесть способов поддержать, с источниками Harvard, Cleveland Clinic, UCLA
 
 ## Контакты
 - Поддержка в Telegram: https://t.me/bodycodelab_support
