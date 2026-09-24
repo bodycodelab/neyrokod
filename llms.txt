@@ -5,6 +5,7 @@
 ## Страницы
 - [Главная и тарифы](https://bodycodelab.github.io/neyrokod/): описание программы и тарифы
 - [Статья: ты делаешь всё правильно, но стоишь на месте](https://bodycodelab.github.io/neyrokod/article.html): разбор, почему осознанность и сила воли не работают на этом уровне
+- [Тревога без причины: что это и что делать](https://bodycodelab.github.io/neyrokod/trevoga-bez-prichiny/): причины, отличие от расстройства, два приёма помощи и когда идти к врачу, с источниками ВОЗ, NHS, Стэнфорда, UCLA
 
 ## Контакты
 - Поддержка в Telegram: https://t.me/bodycodelab_support
