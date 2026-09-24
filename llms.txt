@@ -7,6 +7,12 @@
 - [Статья: ты делаешь всё правильно, но стоишь на месте](https://bodycodelab.github.io/neyrokod/article.html): разбор, почему осознанность и сила воли не работают на этом уровне
 - [Тревога без причины: что это и что делать](https://bodycodelab.github.io/neyrokod/trevoga-bez-prichiny/): причины, отличие от расстройства, два приёма помощи и когда идти к врачу, с источниками ВОЗ, NHS, Стэнфорда, UCLA
 - [Тревога по утрам: почему она бывает и что делать](https://bodycodelab.github.io/neyrokod/trevoga-po-utram/): причины утренней тревоги, что её усиливает, три шага на вечер и утро и когда идти к врачу, с источниками Medical News Today, Cleveland Clinic, NHS, ВОЗ
+- [Признаки эмоционального выгорания: 3 группы и как их отличить](https://bodycodelab.github.io/neyrokod/priznaki-vygoraniya/): телесные, эмоциональные и поведенческие признаки, отличие от стресса и депрессии, с источниками ВОЗ, Cleveland Clinic, HelpGuide, NHS
+- [Выгорание и апатия: как связаны и что делать, 5 шагов](https://bodycodelab.github.io/neyrokod/vygoranie-i-apatiya/): как апатия связана с выгоранием и депрессией, что делать и когда идти к специалисту, с источниками Healthline, Cleveland Clinic, WebMD
+- [Выгорание на работе: что делать, 5 шагов восстановления](https://bodycodelab.github.io/neyrokod/vygoranie-na-rabote-chto-delat/): причины, признаки и пять шагов, с источниками Cleveland Clinic, WebMD, HelpGuide, ВОЗ
+- [Почему не получается расслабиться: причины и 3 способа](https://bodycodelab.github.io/neyrokod/pochemu-ne-mogu-rasslabitsya/): почему трудно расслабиться, техники и вечерние советы, с источниками Cleveland Clinic, NHS, Stanford
+- [Тест на выгорание: 10 вопросов для самопроверки на работе](https://bodycodelab.github.io/neyrokod/test-na-vygoranie/): вопросы для самопроверки по признакам Cleveland Clinic и ВОЗ, без диагноза
+- [Как быстро снять тревогу без причины: 3 приёма на 5 минут](https://bodycodelab.github.io/neyrokod/trevoga-bez-prichiny-kak-izbavitsya/): вздох с длинным выдохом, называние чувства словами, сон и разговор, с источниками Stanford, UCLA, NHS
 
 ## Контакты
 - Поддержка в Telegram: https://t.me/bodycodelab_support
